@@ -1,0 +1,82 @@
+[
+  {
+    "city_id": 1,
+    "city_name": "Indiranagar",
+    "latitude": 12.9784,
+    "longitude": 77.6408,
+    "region": "East Bengaluru",
+    "state": "Karnataka"
+  },
+  {
+    "city_id": 2,
+    "city_name": "Koramangala",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "region": "South Bengaluru",
+    "state": "Karnataka"
+  },
+  {
+    "city_id": 3,
+    "city_name": "Whitefield",
+    "latitude": 12.9698,
+    "longitude": 77.75,
+    "region": "East Bengaluru",
+    "state": "Karnataka"
+  },
+  {
+    "city_id": 4,
+    "city_name": "MG Road",
+    "latitude": 12.9756,
+    "longitude": 77.6067,
+    "region": "Central Bengaluru",
+    "state": "Karnataka"
+  },
+  {
+    "city_id": 5,
+    "city_name": "Jayanagar",
+    "latitude": 12.9307,
+    "longitude": 77.5838,
+    "region": "South Bengaluru",
+    "state": "Karnataka"
+  },
+  {
+    "city_id": 6,
+    "city_name": "HSR Layout",
+    "latitude": 12.9121,
+    "longitude": 77.6446,
+    "region": "South Bengaluru",
+    "state": "Karnataka"
+  },
+  {
+    "city_id": 7,
+    "city_name": "Electronic City",
+    "latitude": 12.8452,
+    "longitude": 77.6632,
+    "region": "South Bengaluru",
+    "state": "Karnataka"
+  },
+  {
+    "city_id": 8,
+    "city_name": "Hebbal",
+    "latitude": 13.0354,
+    "longitude": 77.5988,
+    "region": "North Bengaluru",
+    "state": "Karnataka"
+  },
+  {
+    "city_id": 9,
+    "city_name": "Marathahalli",
+    "latitude": 12.9569,
+    "longitude": 77.7011,
+    "region": "East Bengaluru",
+    "state": "Karnataka"
+  },
+  {
+    "city_id": 10,
+    "city_name": "Rajajinagar",
+    "latitude": 12.9901,
+    "longitude": 77.5525,
+    "region": "West Bengaluru",
+    "state": "Karnataka"
+  }
+]

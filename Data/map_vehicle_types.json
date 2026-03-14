@@ -1,0 +1,42 @@
+[
+  {
+    "vehicle_type_id": 1,
+    "vehicle_type": "Uber Go",
+    "description": "Compact",
+    "base_rate": 50.0,
+    "per_km": 12.0,
+    "per_minute": 1.5
+  },
+  {
+    "vehicle_type_id": 2,
+    "vehicle_type": "Uber Premier",
+    "description": "Sedan",
+    "base_rate": 70.0,
+    "per_km": 15.0,
+    "per_minute": 2.0
+  },
+  {
+    "vehicle_type_id": 3,
+    "vehicle_type": "Uber Auto",
+    "description": "Three Wheeler",
+    "base_rate": 30.0,
+    "per_km": 10.0,
+    "per_minute": 1.0
+  },
+  {
+    "vehicle_type_id": 4,
+    "vehicle_type": "Uber Moto",
+    "description": "Bike",
+    "base_rate": 20.0,
+    "per_km": 6.0,
+    "per_minute": 0.5
+  },
+  {
+    "vehicle_type_id": 5,
+    "vehicle_type": "Uber XL",
+    "description": "SUV",
+    "base_rate": 100.0,
+    "per_km": 20.0,
+    "per_minute": 3.0
+  }
+]

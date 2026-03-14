@@ -1,0 +1,30 @@
+[
+  {
+    "vehicle_make_id": 1,
+    "vehicle_make": "Maruti Suzuki"
+  },
+  {
+    "vehicle_make_id": 2,
+    "vehicle_make": "Hyundai"
+  },
+  {
+    "vehicle_make_id": 3,
+    "vehicle_make": "Tata Motors"
+  },
+  {
+    "vehicle_make_id": 4,
+    "vehicle_make": "Toyota"
+  },
+  {
+    "vehicle_make_id": 5,
+    "vehicle_make": "Mahindra"
+  },
+  {
+    "vehicle_make_id": 6,
+    "vehicle_make": "Honda"
+  },
+  {
+    "vehicle_make_id": 7,
+    "vehicle_make": "Bajaj"
+  }
+]
