@@ -28,12 +28,12 @@
   },
   {
     "city_id": 4,
-    "city_name": "MG Road",
+    "city_name": "Mahathma GandhiRoad",
     "latitude": 12.9756,
     "longitude": 77.6067,
     "region": "Central Bengaluru",
     "state": "Karnataka",
-    "updated_at": "2026-03-17T12:27:26.981+00:00"
+    "updated_at": "2026-03-17T20:27:26.981+00:00"
   },
   {
     "city_id": 5,
